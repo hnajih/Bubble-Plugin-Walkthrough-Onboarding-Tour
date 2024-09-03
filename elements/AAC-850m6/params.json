@@ -1,0 +1,21 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "walkthrough",
+    "fields": {
+        "AAD": {
+            "caption": "data",
+            "doc": "target|content|title(optional)|order(optional). each step in a new line",
+            "editor": "StaticText",
+            "is_list": false,
+            "name": "data",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-ios-chatbubble-outline"
+}

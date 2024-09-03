@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "mobile",
+        "1": "technical",
+        "2": "productivity",
+        "3": "containers",
+        "4": "customer support"
+    },
+    "demo_page": "https://apex-charts-79431.bubbleapps.io/version-test/walkthrough?debug_mode=true",
+    "description": "Intuitive and customisable tours for user onboarding.\nWalkthrough Onboarding Tour bubble plugin for creating user tours and on-boarding steps for your apps\nplace the walkthrough visual element anywhere in the page and your steps in the data field.this way target|content|title(optional)|order(optional). each step in a new line\n\n\nDemo : https://apex-charts-79431.bubbleapps.io/version-test/walkthrough?debug_mode=true",
+    "image": "//meta-q.cdn.bubble.io/f1725374862143x684469587801162600/Screen%20Shot%202024-09-03%20at%2021.47.26.png",
+    "license": "open_source",
+    "name": "Walkthrough Onboarding Tour"
+}
